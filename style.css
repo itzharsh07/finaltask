@@ -1,0 +1,8 @@
+body { font-family: Arial; background: #f9f9f9; color: #333; }
+header, nav { background: #006699; color: white; padding: 15px; text-align: center; }
+table { width: 80%; margin: 20px auto; border-collapse: collapse; }
+th, td { padding: 10px; border: 1px solid #ccc; }
+main, form { padding: 20px; text-align: center; }
+a { margin: 0 10px; color: white; text-decoration: none; }
+input[type="text"], input[type="password"] { padding: 5px; width: 200px; margin: 10px 0; }
+input[type="submit"] { padding: 10px 20px; background: #006699; color: white; border: none; cursor: pointer; }
